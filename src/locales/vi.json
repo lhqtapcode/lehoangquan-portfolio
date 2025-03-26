@@ -1,0 +1,118 @@
+{
+    "navigation": {
+      "home": "Trang chủ",
+      "projects": "Dự án",
+      "skills": "Kỹ năng",
+      "education": "Học vấn",
+      "goals": "Mục tiêu",
+      "contact": "Liên hệ"
+    },
+    "home": {
+      "title": "Xin chào, tôi là Lê Hoàng Quân",
+      "subtitle": "Học sinh lớp 11 toán 2 tại High School for the Gifted - VNUHCM",
+      "about": "Đam mê với công nghệ của tôi xuất phát từ nguồn cảm hứng và niềm tin rằng công nghệ có thể làm cho cuộc sống con người trở nên đơn giản và thú vị hơn. Không có gì khiến tôi hài lòng hơn việc học tập và quan sát những công nghệ mới mẻ, từ đó tìm kiếm và suy nghĩ ra được những hướng đi mới và phù hợp với bản thân trong tương lai.",
+      "values": {
+        "title": "Giá trị cốt lõi",
+        "diligence": {
+          "title": "Sự chăm chỉ",
+          "description": "Không ngừng cập nhật và bổ sung những điểm mà bản thân thiếu xót với mục đích hoàn thiện hơn trong tương lai."
+        },
+        "breakthrough": {
+          "title": "Sự đột phá",
+          "description": "Luôn hướng tới những điều mới mẻ, phá vỡ những khuôn khổ và sự gò bó."
+        },
+        "creativity": {
+          "title": "Sự sáng tạo",
+          "description": "Tôi tin rằng khi gặp bất kỳ vấn đề nào trong cuộc sống, tôi đều có thể vượt qua và chứng minh sự độc đáo của bản thân."
+        }
+      },
+      "journey": "Hành trình"
+    },
+    "projects": {
+      "title": "Dự án & Kinh nghiệm",
+      "filters": {
+        "all": "Tất cả",
+        "charity": "Thiện nguyện",
+        "tech": "Công nghệ"
+      },
+      "whisper": {
+        "title": "Câu lạc bộ Whisper of Wild",
+        "period": "02/2025 - 08/2025",
+        "goal": "Câu lạc bộ thiện nguyện nâng cao ý thức và bảo vệ hoạt động hoang dã.",
+        "role": "Vice President, kiêm Advisor cho ban HR/PR-ER."
+      },
+      "benignity": {
+        "title": "Câu lạc bộ Benignity PTNK",
+        "period": "09/2024 - 06/2025",
+        "goal": "Câu lạc bộ thiện nguyện chuyên tổ chức các chuyến đi thăm mái ấm và tổ chức các buổi nấu ăn từ thiện.",
+        "role": "Thành viên trong ban Hành chính Nhân sự (HR-ER)."
+      }
+    },
+    "skills": {
+      "title": "Kỹ năng",
+      "programming": "Lập trình",
+      "languages": "Ngôn ngữ",
+      "soft": "Kỹ năng mềm",
+      "cpp": "C++",
+      "english": "Tiếng Anh"
+    },
+    "education": {
+      "title": "Học vấn & Chứng chỉ",
+      "highSchool": {
+        "name": "High School for the Gifted - VNUHCM",
+        "period": "2023-2026",
+        "achievements": [
+          "Học sinh xuất sắc",
+          "Đạt giải về giáo dục quốc phòng cấp cụm"
+        ]
+      },
+      "middleSchool": {
+        "name": "Trường Trung học cơ sở Nguyễn Du",
+        "period": "2019-2023",
+        "achievements": [
+          "Được 2 lần học sinh giỏi nhất khối năm lớp 7, 8",
+          "Lớp 6 đạt giải ba bóng rổ cấp quận",
+          "Lớp 9 đạt giải nhì bóng rổ cấp quận"
+        ]
+      },
+      "primarySchool": {
+        "name": "Trường Tiểu học Chi Lăng",
+        "period": "2014-2019",
+        "achievements": [
+          "Học sinh xuất sắc",
+          "Năm lớp 3, 4 đạt giải Toán và Toán tiếng Anh cấp quận"
+        ]
+      }
+    },
+    "goals": {
+      "title": "Mục tiêu",
+      "shortTerm": {
+        "title": "Ngắn hạn",
+        "description": "Mở rộng thêm những kiến thức về công nghệ và toán học để phục vụ cho mục tiêu dài hạn của bản thân trong lĩnh vực trí tuệ nhân tạo (AI)."
+      },
+      "longTerm": {
+        "title": "Dài hạn",
+        "description": "Phát triển trong lĩnh vực trí tuệ nhân tạo (AI)."
+      }
+    },
+    "contact": {
+      "title": "Liên hệ",
+      "name": "Họ và tên",
+      "email": "Email",
+      "message": "Tin nhắn",
+      "send": "Gửi",
+      "success": "Tin nhắn đã được gửi thành công!",
+      "error": "Có lỗi xảy ra, vui lòng thử lại sau.",
+      "form": {
+        "namePlaceholder": "Nhập họ và tên của bạn",
+        "emailPlaceholder": "Nhập địa chỉ email của bạn",
+        "messagePlaceholder": "Nhập tin nhắn của bạn",
+        "required": "Trường này không được để trống",
+        "invalidEmail": "Email không hợp lệ"
+      }
+    },
+    "footer": {
+      "copyright": "© 2025 Lê Hoàng Quân. Tất cả quyền được bảo lưu.",
+      "backToTop": "Lên đầu trang"
+    }
+  }

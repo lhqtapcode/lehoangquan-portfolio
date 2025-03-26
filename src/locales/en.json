@@ -1,0 +1,118 @@
+{
+    "navigation": {
+      "home": "Home",
+      "projects": "Projects",
+      "skills": "Skills",
+      "education": "Education",
+      "goals": "Goals",
+      "contact": "Contact"
+    },
+    "home": {
+      "title": "Hello, I'm Le Hoang Quan",
+      "subtitle": "11th grade student (Math class) at High School for the Gifted - VNUHCM",
+      "about": "My passion for technology stems from the inspiration and belief that technology can make human life simpler and more interesting. Nothing satisfies me more than learning and observing new technologies, and from there finding and thinking of new directions that are suitable for myself in the future.",
+      "values": {
+        "title": "Core Values",
+        "diligence": {
+          "title": "Diligence",
+          "description": "Constantly updating and supplementing my shortcomings with the aim of becoming more complete in the future."
+        },
+        "breakthrough": {
+          "title": "Breakthrough",
+          "description": "Always looking towards new things, breaking frames and constraints."
+        },
+        "creativity": {
+          "title": "Creativity",
+          "description": "I believe that when faced with any problem in life, I can overcome it and prove my uniqueness."
+        }
+      },
+      "journey": "Journey"
+    },
+    "projects": {
+      "title": "Projects & Experience",
+      "filters": {
+        "all": "All",
+        "charity": "Charity",
+        "tech": "Technology"
+      },
+      "whisper": {
+        "title": "Whisper of Wild Club",
+        "period": "02/2025 - 08/2025",
+        "goal": "Charity club to raise awareness and protect wildlife activities.",
+        "role": "Vice President, also Advisor for HR/PR-ER department."
+      },
+      "benignity": {
+        "title": "Benignity PTNK Club",
+        "period": "09/2024 - 06/2025",
+        "goal": "Charity club specializing in organizing visits to shelters and charity cooking events.",
+        "role": "Member of the Human Resources Administration (HR-ER) department."
+      }
+    },
+    "skills": {
+      "title": "Skills",
+      "programming": "Programming",
+      "languages": "Languages",
+      "soft": "Soft Skills",
+      "cpp": "C++",
+      "english": "English"
+    },
+    "education": {
+      "title": "Education & Certificates",
+      "highSchool": {
+        "name": "High School for the Gifted - VNUHCM",
+        "period": "2023-2026",
+        "achievements": [
+          "Excellent student",
+          "Won a defense education award at the cluster level"
+        ]
+      },
+      "middleSchool": {
+        "name": "Nguyen Du Secondary School",
+        "period": "2019-2023",
+        "achievements": [
+          "Best student in the grade twice in 7th and 8th grades",
+          "3rd place in district basketball in 6th grade",
+          "2nd place in district basketball in 9th grade"
+        ]
+      },
+      "primarySchool": {
+        "name": "Chi Lang Primary School",
+        "period": "2014-2019",
+        "achievements": [
+          "Excellent student",
+          "Won district-level Math and English Math awards in 3rd and 4th grades"
+        ]
+      }
+    },
+    "goals": {
+      "title": "Goals",
+      "shortTerm": {
+        "title": "Short-term",
+        "description": "Expand knowledge of technology and mathematics to serve my long-term goals in artificial intelligence (AI)."
+      },
+      "longTerm": {
+        "title": "Long-term",
+        "description": "Develop in the field of artificial intelligence (AI)."
+      }
+    },
+    "contact": {
+      "title": "Contact",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send",
+      "success": "Message sent successfully!",
+      "error": "An error occurred, please try again later.",
+      "form": {
+        "namePlaceholder": "Enter your name",
+        "emailPlaceholder": "Enter your email address",
+        "messagePlaceholder": "Enter your message",
+        "required": "This field is required",
+        "invalidEmail": "Invalid email"
+      }
+    },
+    "footer": {
+      "copyright": "© 2025 Le Hoang Quan. All rights reserved.",
+      "backToTop": "Back to top"
+    }
+  }
